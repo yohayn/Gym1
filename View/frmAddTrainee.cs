@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Gym1.View;
+using System;
 using System.Windows.Forms;
 
 namespace Gym
@@ -18,7 +11,7 @@ namespace Gym
             InitializeComponent();
         }
 
-      
+
         private void traineesBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
             this.Validate();
@@ -36,8 +29,8 @@ namespace Gym
 
         private void btnGoBack_Click_1(object sender, EventArgs e)
         {
-            frmSecretary frmSecretary = new frmSecretary();
-            frmSecretary.Show();
+            TraineesManagement traineesManagement = new TraineesManagement();
+            traineesManagement.Show();
             this.Close();
         }
     }

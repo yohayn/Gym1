@@ -67,3 +67,17 @@ C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\
 C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.Properties.Resources.resources
 C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.View.TraineesManagement.resources
 C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\bin\Debug\Gym1.exe.config
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym1.exe
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym1.pdb
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\bin\Debug\Gym1.exe
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\bin\Debug\Gym1.pdb
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym.frmAddTrainee.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym.frmManager.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym.frmSecretary.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym1.View.frmShop.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym.frmMain.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym1.Properties.Resources.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym1.View.TraineesManagement.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache

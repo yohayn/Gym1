@@ -1,0 +1,14 @@
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\bin\Release\Gym1.exe.config
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\bin\Release\Gym1.exe
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\bin\Release\Gym1.pdb
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym.frmAddTrainee.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym.frmManager.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym.frmSecretary.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym1.View.frmShop.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym.frmTrainee.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym.frmMain.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym1.Properties.Resources.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym1.View.TraineesManagement.resources
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym1.csproj.GenerateResource.Cache
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym1.exe
+C:\Users\Yohay_Nahari\Google Drive\Repository\Gym1\obj\Release\Gym1.pdb
