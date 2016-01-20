@@ -1,0 +1,69 @@
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\bin\Debug\Gym1.exe.config
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym1.csprojResolveAssemblyReference.cache
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym.frmAddTrainee.resources
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym.frmManager.resources
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym.frmSecretary.resources
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym.frmTrainee.resources
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym.frmMain.resources
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym1.Properties.Resources.resources
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\bin\Debug\Gym1.exe
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\bin\Debug\Gym1.pdb
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym1.exe
+c:\users\eyal\documents\visual studio 2013\Projects\Gym1\Gym1\obj\Debug\Gym1.pdb
+C:\Users\Eyal\Desktop\Gym1\Gym1\bin\Debug\Gym1.exe.config
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym1.exe
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym1.pdb
+C:\Users\Eyal\Desktop\Gym1\Gym1\bin\Debug\Gym1.exe
+C:\Users\Eyal\Desktop\Gym1\Gym1\bin\Debug\Gym1.pdb
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym1.csprojResolveAssemblyReference.cache
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym.frmAddTrainee.resources
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym.frmManager.resources
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym.frmSecretary.resources
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym.frmMain.resources
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym1.Properties.Resources.resources
+C:\Users\Eyal\Desktop\Gym1\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\bin\Debug\Gym1.exe.config
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym1.exe
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym1.pdb
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\bin\Debug\Gym1.exe
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\bin\Debug\Gym1.pdb
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym1.csprojResolveAssemblyReference.cache
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym.frmAddTrainee.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym.frmManager.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym.frmSecretary.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym1.View.frmShop.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym.frmMain.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym1.Properties.Resources.resources
+C:\Users\Eyal\Desktop\19-01-07-00\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\bin\Debug\Gym1.exe.config
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym1.exe
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym1.pdb
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\bin\Debug\Gym1.exe
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\bin\Debug\Gym1.pdb
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym1.csprojResolveAssemblyReference.cache
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym.frmAddTrainee.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym.frmManager.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym.frmSecretary.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym1.View.frmShop.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym.frmMain.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym1.Properties.Resources.resources
+C:\Users\Yohay_Nahari\Google Drive\ניתוצ\ש.ב\5\19-01-08-00\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\bin\Debug\Gym1.exe.config
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.exe
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.pdb
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\bin\Debug\Gym1.exe
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\bin\Debug\Gym1.pdb
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.csprojResolveAssemblyReference.cache
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym.frmAddTrainee.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym.frmManager.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym.frmSecretary.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.View.frmShop.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym.frmMain.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.Properties.Resources.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.View.TraineesManagement.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\nituts18.1\Gym1\obj\Debug\Gym1.csproj.GenerateResource.Cache
